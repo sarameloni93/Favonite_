@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/brickBackground.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/brickBackgroundpng.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bullet.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bulletSound.mp3</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Controls.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/emptyheart.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Exit Game.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/FavoniteIcon.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Font.spritefont</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/jumpSound.mp3</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/legend.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/lives.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Main Menu Background.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/pixil-frame-0.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/PlaceholderPlayer.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/rei_running.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/ReiGunRunning.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Settings.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Start Game.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/startGame.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile1.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile2.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile3.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Title name.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauDown.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauLeft.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauRight.png</File>
+    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauUp.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
