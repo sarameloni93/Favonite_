@@ -4,34 +4,34 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/brickBackground.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/brickBackgroundpng.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bullet.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bulletSound.mp3</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Controls.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/emptyheart.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Exit Game.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/FavoniteIcon.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Font.spritefont</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/jumpSound.mp3</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/legend.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/lives.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Main Menu Background.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/pixil-frame-0.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/PlaceholderPlayer.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/rei_running.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/ReiGunRunning.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Settings.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Start Game.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/startGame.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile1.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile2.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/TileMapTiles/Tile3.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/Title name.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauDown.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauLeft.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauRight.png</File>
-    <File>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/utauUp.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/brickBackground.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/brickBackgroundpng.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/bullet.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/bulletSound.mp3</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Controls.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/emptyheart.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Exit Game.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/FavoniteIcon.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Font.spritefont</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/jumpSound.mp3</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/legend.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/lives.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Main Menu Background.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/pixil-frame-0.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/PlaceholderPlayer.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/rei_running.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/ReiGunRunning.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Settings.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Start Game.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/startGame.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/TileMapTiles/Tile1.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/TileMapTiles/Tile2.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/TileMapTiles/Tile3.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/Title name.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/utauDown.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/utauLeft.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/utauRight.png</File>
+    <File>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/utauUp.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

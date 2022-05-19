@@ -132,6 +132,10 @@ namespace Favonite.States
                 guiInfo.LEVEL += 1;
             }
 
+            if(player.playerHealth <= 0)
+            {
+                _game.ChangeState(new GameOverState(_game, _graphicsDevice, _content, _spriteBatch));
+            }
 
         }
         public override void PostUpdate(GameTime gameTime)

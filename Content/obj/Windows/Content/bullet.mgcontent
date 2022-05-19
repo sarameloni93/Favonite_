@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bullet.png</SourceFile>
-  <SourceTime>2022-05-15T23:30:06.8442892+01:00</SourceTime>
-  <DestFile>C:/Users/w1828502/Desktop/Favonite0/Favonite/Content/bin/Windows/Content/bullet.xnb</DestFile>
-  <DestTime>2022-05-17T20:45:11.426535+01:00</DestTime>
+  <SourceFile>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/bullet.png</SourceFile>
+  <SourceTime>2022-05-18T20:52:22.5970444+01:00</SourceTime>
+  <DestFile>C:/Users/Leilani/Documents/GitHub/Favonite_/Content/bin/Windows/Content/bullet.xnb</DestFile>
+  <DestTime>2022-05-18T20:52:42.0724309+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
