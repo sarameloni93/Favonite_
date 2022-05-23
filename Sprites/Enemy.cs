@@ -10,28 +10,31 @@ namespace Favonite
     class Enemy
     {
         #region Declarations
-        public Animation EnemyAnimation;
-        public Vector2 position;
+        public Animation enemyAnimation;
+        public Vector2 position, velocity;
         public bool active;
         public int health;
         public int Damage;
         public int value;
         float enemyMoveSpeed;
 
+        Random random = new Random();
+        int randX, randY;
+
         public int Width
         {
-            get { return EnemyAnimation.frameWidth; }
+            get { return enemyAnimation.frameWidth; }
         }
 
         public int Height
         {
-            get { return EnemyAnimation.frameHeight; }
+            get { return enemyAnimation.frameHeight; }
         }
 
         #endregion
         public void Initialize(Animation animation, Vector2 position)
         {
-            EnemyAnimation = animation;
+           enemyAnimation = animation;
             this.position = position;
             active = true;
             health = 10;
@@ -39,16 +42,29 @@ namespace Favonite
             enemyMoveSpeed = 2f;
             value = 100;
 
+            randX = random.Next(-4, 4);
+            randY = random.Next(-4, 4);
+
+            velocity = new Vector2(randX, randY);
         }
 
         public void Update(GameTime gameTime)
         {
-            position.X -= enemyMoveSpeed;
-            EnemyAnimation.position = position;
+            position += velocity;
 
-            EnemyAnimation.Update(gameTime);
+            enemyAnimation.position = position;
+
+            enemyAnimation.Update(gameTime);
 
             if (position.X < -Width || health <= 0)
+            {
+                active = false;
+            }
+            if(position.Y <= 0 || position.Y > Globals.screenHeight - enemyAnimation.frameHeight)
+            {
+                velocity.Y = -velocity.Y;
+            }
+            if (position.X <0  - enemyAnimation.frameWidth)
             {
                 active = false;
             }
@@ -57,7 +73,7 @@ namespace Favonite
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            EnemyAnimation.Draw(spriteBatch);
+            enemyAnimation.Draw(spriteBatch);
         }
     }
 }

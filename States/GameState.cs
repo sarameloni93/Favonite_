@@ -29,6 +29,7 @@ namespace Favonite.States
         Texture2D playerTexture, enemyTexture, healthBar;
         Texture2D bulletsTexture;
         private Player player;
+        List<Enemy> enemies = new List<Enemy>();
         float scale = 1f;
 
         Texture2D rightWalk, leftWalk, currentAnim;

@@ -126,6 +126,10 @@ namespace Favonite
 
 
             }
+            if(PlayerInputs.IsPressed(Keys.H) == true)
+            {
+                playerHealth = 0;
+            }
         }
 
         private void shoot()
